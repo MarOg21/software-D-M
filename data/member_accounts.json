@@ -1,0 +1,20 @@
+[
+  {
+    "member_id": "M001",
+    "username": "M001",
+    "password": "GF851089",
+    "role": "Member"
+  },
+  {
+    "member_id": "M003",
+    "username": "M003",
+    "password": "GF313744",
+    "role": "Member"
+  },
+  {
+    "member_id": "M004",
+    "username": "M004",
+    "password": "GF111813",
+    "role": "Member"
+  }
+]

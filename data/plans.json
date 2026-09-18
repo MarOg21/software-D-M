@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Basic",
+    "rank": 1,
+    "price": 25.0,
+    "guest_pass_allowance": 3,
+    "description": "Gym floor access only."
+  },
+  {
+    "name": "Premium",
+    "rank": 2,
+    "price": 45.0,
+    "guest_pass_allowance": 3,
+    "description": "Gym floor + classes + pool."
+  },
+  {
+    "name": "Family",
+    "rank": 3,
+    "price": 70.0,
+    "guest_pass_allowance": 3,
+    "description": "All facilities, up to 4 family members."
+  },
+  {
+    "name": "Vip",
+    "rank": 4,
+    "price": 25.0,
+    "guest_pass_allowance": 3,
+    "description": "Swimming + advanced suited"
+  }
+]

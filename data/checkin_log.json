@@ -1,0 +1,50 @@
+[
+  {
+    "member_id": "M001",
+    "member_name": "Marius Ogowuihe",
+    "result": "ALLOW",
+    "reason_code": "",
+    "message": "Access Granted",
+    "timestamp": "2026-09-18T11:14:22.841711"
+  },
+  {
+    "member_id": "M001",
+    "member_name": "Marius Ogowuihe",
+    "result": "DENY",
+    "reason_code": "DUPLICATE",
+    "message": "Member has already been checked in today.",
+    "timestamp": "2026-09-18T11:14:41.957877"
+  },
+  {
+    "member_id": "M003",
+    "member_name": "Marcus Cummings",
+    "result": "ALLOW",
+    "reason_code": "",
+    "message": "Access Granted",
+    "timestamp": "2026-09-18T11:30:46.967355"
+  },
+  {
+    "member_id": "M003",
+    "member_name": "Marcus Cummings",
+    "result": "DENY",
+    "reason_code": "DUPLICATE",
+    "message": "Member has already been checked in today.",
+    "timestamp": "2026-09-18T11:31:30.236361"
+  },
+  {
+    "member_id": "M002",
+    "member_name": "John Doe",
+    "result": "DENY",
+    "reason_code": "EXPIRED",
+    "message": "Membership expired on 2025-05-10.",
+    "timestamp": "2026-09-18T11:36:54.651677"
+  },
+  {
+    "member_id": "M002",
+    "member_name": "John Doe",
+    "result": "ALLOW",
+    "reason_code": "",
+    "message": "Access Granted",
+    "timestamp": "2026-09-18T11:37:25.321450"
+  }
+]

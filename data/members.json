@@ -1,0 +1,46 @@
+[
+  {
+    "member_id": "M001",
+    "name": "Marius Ogowuihe",
+    "tier": "Premium",
+    "expiry_date": "2027-09-18",
+    "status": "Cancelled",
+    "email": "Ogmnewlegend@gmail.com",
+    "phone": "015213222884",
+    "guest_passes_remaining": 0,
+    "last_check_in": "2026-09-18T11:14:22.841711"
+  },
+  {
+    "member_id": "M002",
+    "name": "John Doe",
+    "tier": "Premium",
+    "expiry_date": "2027-09-18",
+    "status": "Active",
+    "email": "johndoe@gmail.com",
+    "phone": "015213222884",
+    "guest_passes_remaining": 3,
+    "last_check_in": "2026-09-18T11:37:25.321450"
+  },
+  {
+    "member_id": "M003",
+    "name": "Marcus Cummings",
+    "tier": "Family",
+    "expiry_date": "2027-09-18",
+    "status": "Cancelled",
+    "email": "Marcus@gmail.com",
+    "phone": "08187811765",
+    "guest_passes_remaining": 0,
+    "last_check_in": "2026-09-18T11:30:46.967355"
+  },
+  {
+    "member_id": "M004",
+    "name": "Martins Og",
+    "tier": "Family",
+    "expiry_date": null,
+    "status": "PendingActivation",
+    "email": "Martins@gmail.com",
+    "phone": "0866477388",
+    "guest_passes_remaining": 3,
+    "last_check_in": null
+  }
+]
